@@ -32,3 +32,11 @@ this table is created for sports and activity there location and price per equip
 | football       |  kansa     | $100        |
 | hockey         | delhi      | $50         |
 | baseball       | newyork    | $70         |
+
+
+***
+## Quotes
+
+> “Life is what happens when you’re busy making other plans.” — *John Lennon*
+
+> “Many of life’s failures are people who did not realize how close they were to success when they gave > up.”– *Thomas A. Edison*
