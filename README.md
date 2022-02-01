@@ -18,3 +18,5 @@ McDonald's to near places are lot of supermarkets like **Hy-Vee** and **walmrt**
 * Double Quarter Pounder®* with Cheese.
 * Quarter Pounder®* with Cheese Deluxe.
 * McDouble®
+
+![Mani's photo](https://github.com/manikanta-nwms/assignment2-gaddameda/blob/main/mani.jpg)
