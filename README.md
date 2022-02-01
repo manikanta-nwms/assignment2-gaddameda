@@ -20,3 +20,15 @@ McDonald's to near places are lot of supermarkets like **Hy-Vee** and **walmrt**
 * McDouble®
 
 ![Mani's photo](https://github.com/manikanta-nwms/assignment2-gaddameda/blob/main/mani.jpg)
+
+
+***
+
+this table is created for sports and activity there location and price per equipments for that particular sports 
+
+| sport/activity | Location   | Amount      |
+| :---           |    :---:   |        ---: |
+| Cricket        | hyd        | $80         |
+| football       |  kansa     | $100        |
+| hockey         | delhi      | $50         |
+| baseball       | newyork    | $70         |
